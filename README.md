@@ -47,5 +47,9 @@ The dataset (`ecommerce_customers_large.csv`) includes:
 pip install -r requirements.txt
 
 
+🔗 [View My Profile](https://github.com/Sunny-ydv)
+
+
+
 
 
